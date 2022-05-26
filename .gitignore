@@ -2,5 +2,9 @@ Include
 Lib
 Scripts
 
+old.py
+
+controller.py
+
 pyvenv.cfg
-token.json
+config.json
